@@ -1,0 +1,36 @@
+html {
+  font-family: Merriweather, serif;
+  background-color: #f2f2f2;
+}
+
+tbody tr {
+  height: 180px;
+}
+
+.event {
+  border-radius: 8px;
+}
+
+.white {
+  background-color: #ccc;
+  border: 1px solid #666;
+  color: #333;
+}
+
+.red {
+  background-color: #f2bcbc;
+  border: 1px solid #b92828;
+  color: #991919;
+}
+
+.blue {
+  background-color: #d2d6f0;
+  border: 1px solid #1d38da;
+  color: #38448e;
+}
+
+.green {
+  background-color: #d1e0bf;
+  border: 1px solid #6b7e54;
+  color: #51603f;
+}
